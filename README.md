@@ -3,6 +3,16 @@
 **Human scientific author:** Gabriel St-Pierre, independent researcher.
 **Material AI assistance:** OpenAI ChatGPT (Astra) assisted exact calculations, separate checker implementations, manuscript and publication. AI is not a scientific author.
 
+## Official published 48D DOI and public verification
+
+- **DOI:** [10.5281/zenodo.24426580](https://doi.org/10.5281/zenodo.24426580); public Zenodo record https://zenodo.org/records/24426580 .
+- **Frozen scientific source:** [v0.1.0](https://github.com/Topbrutus/polybrutus-d48/tree/v0.1.0), immutable scientific commit 02e51ca0e0cdb1b30068320c4595e36cc27afc43.
+- **GitHub main science CI:** https://github.com/Topbrutus/polybrutus-d48/actions/runs/44942508271 — success.
+- **GitHub tag science CI:** https://github.com/Topbrutus/polybrutus-d48/actions/runs/44942552729 — success.
+- **Three public Zenodo artifacts:** filenames, sizes and MD5 verified against original SHA-256 archived files.
+- **Metadata QA:** exact keywords forty-eight and forty-twofold; structured isDerivedFrom D47 DOI 10.5281/zenodo.24425675; separate two textual citations D47 and D7 (10.5281/zenodo.24407952).
+- **Memoria checkpoint:** https://github.com/Topbrutus/topbrutus_one/blob/main/memoria/checkpoints/POLYBRUTUS_D48_PUBLICATION_2026-11-21.md .
+
 ## Exact construction
 
 - **53** norm-one labelled vertices; **1,378/1,378** exact unordered labelled squared-distance pairs.

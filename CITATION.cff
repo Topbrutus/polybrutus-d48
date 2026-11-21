@@ -10,3 +10,5 @@ date-released: 2026-11-21
 license: MIT
 repository-code: https://github.com/Topbrutus/polybrutus-d48
 abstract: "Exact 53-point norm-one labelled Euclidean metric conserving all 1326 D47 pairs, minimal affine rank 48 and a separately stipulated ideal weighted graph."
+doi: 10.5281/zenodo.24426580
+url: https://doi.org/10.5281/zenodo.24426580

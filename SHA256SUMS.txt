@@ -1,0 +1,4 @@
+# SHA256 of three Zenodo original artifacts 10.5281/zenodo.24426580
+2e5855ede0570cc0e6686799a6a5d89fee04b356a9ab351f38d34551d53648c4  publication/POLYBRUTUS_48D_NOTE.pdf
+c16887eb209c98085770908af744550d9b699abb92f96a36226d041799d3f4a8  [external frozen tag archive] POLYBRUTUS_D48_SOURCE_v0.1.0_GITHUB_TAG.zip
+1da9a1f3030ca4e6590067830ea29cff524379317cef8b3ffc6a1570754077ce  results/certificate_d48.json
