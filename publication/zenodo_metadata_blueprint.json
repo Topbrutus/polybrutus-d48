@@ -1,0 +1,39 @@
+{
+  "schema": "POLYBRUTUS-D48-ZENODO-METADATA-QA-v1",
+  "provenance": "Exact D48 certificate and publicly verified D47/7D DOI/title/creator, immutable parent tag and SHA256 source",
+  "scientific_dimension": 48,
+  "norm_one_vertices": 53,
+  "exact_labelled_squared_pairs": 1378,
+  "model_eigenvalue_53_over_2_multiplicity": 42,
+  "model_eigenvalue_26_multiplicity": 4,
+  "scientific_parent_doi": "10.5281/zenodo.24425675",
+  "historical_7d_doi": "10.5281/zenodo.24407952",
+  "title": "Polybrutus 48D: Exact 53-Point Euclidean Metric and Forty-Twofold Ideal Graph Mode",
+  "keywords": [
+    "Polybrutus",
+    "affine Euclidean dimension forty-eight",
+    "exact labelled squared-distance metric",
+    "centered Gram rank",
+    "orthogonal conservative completion",
+    "weighted graph Laplacian",
+    "forty-twofold ideal eigenvalue",
+    "independent rational verification",
+    "mathematical preprint"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.24425675",
+      "relation": "isDerivedFrom",
+      "resource_type": "publication-preprint",
+      "scheme": "doi"
+    }
+  ],
+  "references": [
+    "St-Pierre, Gabriel (2026). Polybrutus 47D: Exact 52-Point Euclidean Metric and Forty-Onefold Ideal Graph Mode. Zenodo. DOI: 10.5281/zenodo.24425675. https://doi.org/10.5281/zenodo.24425675",
+    "St-Pierre, Gabriel (2026). Polybrutus 7D: An Exact Twelve-Point Orthogonal Completion, the 12-35-37 Identity, and an Oscillator Model. Zenodo. DOI: 10.5281/zenodo.24407952. https://doi.org/10.5281/zenodo.24407952"
+  ],
+  "ai_assistance_disclosure": "OpenAI ChatGPT (Astra) materially assisted exact-rational verifiers, manuscript, metadata and public release; AI not a scientific author",
+  "scientific_limit": "This is one exact synthetic Euclidean metric and a separately stipulated dimensionless ideal weighted graph; no physical extra dimensions, frequencies, particles, novel universal theorem or independent human peer review are demonstrated.",
+  "ancestry_validation_note": "D47 certificate parent_tag_commit field inconsistent with actual D46 Git v0.1.0 commit; D48 authenticates actual D47 immutable v0.1.0 commit and original ZIP/certificate independently; no historical edits",
+  "reference_verification": "Public Zenodo API: records 24425675 (D47 direct) and 24407952 (D7 historic), names/creators on 2026-11-21"
+}
